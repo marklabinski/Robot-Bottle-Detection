@@ -23,7 +23,7 @@ __bottle-detection/__
   - _data/_ : contains generated tfrecords and csv
 3. _bottle-detection_distance-estimation_.ipynb
   - Using our newly-trained model (trained on COCO + our own images) to detect bottles, and then estimate the distance from the camera to each bounding box.
-<br>
+
 __stereo/__
 1. Creating disparity maps
   - _stereo_match2.py_
