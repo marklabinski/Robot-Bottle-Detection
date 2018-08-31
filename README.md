@@ -6,6 +6,7 @@ This repository is part of a bigger project to develop an industrial robot that 
 
 Contents are as follows, and can be viewed in this order:
 <br>
+<br>
 __bottle-detection/__
 1. _baseline-model_ssd-mobilenet.ipynb_
   - Using a pre-trained SSD-MobileNet model (trained on COCO dataset) to detect bottles in our images.
@@ -23,11 +24,12 @@ __bottle-detection/__
 3. _bottle-detection_distance-estimation_.ipynb
   - Using our newly-trained model (trained on COCO + our own images) to detect bottles, and then estimate the distance from the camera to each bounding box.
 <br>
+<br<
 __stereo/__
 1. Creating disparity maps
-- _stereo_match2.py_
-- _stereo_match3.py_
-- _stereo_testing.ipynb_
+  - _stereo_match2.py_
+  - _stereo_match3.py_
+  - _stereo_testing.ipynb_
 
 ## Dependencies:
 - Tensorflow
