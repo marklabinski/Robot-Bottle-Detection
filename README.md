@@ -5,6 +5,7 @@ Computer vision scripts for liquor bottle detection for robotic warehouse automa
 This repository is part of a bigger project to develop an industrial robot that can detect, classify and pick liquor bottles off warehouse shelves. For ease of viewing, I have converted most Python scripts to Jupyter Notebooks. Keep in mind that these have mostly been optimized for command-line use.
 
 Contents are as follows, and can be viewed in this order:
+<br>
 __bottle-detection/__
 1. _baseline-model_ssd-mobilenet.ipynb_
   - Using a pre-trained SSD-MobileNet model (trained on COCO dataset) to detect bottles in our images.
