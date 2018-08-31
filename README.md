@@ -9,7 +9,6 @@ Contents are as follows, and can be viewed in this order:
 __bottle-detection/__
 1. _baseline-model_ssd-mobilenet.ipynb_
   - Using a pre-trained SSD-MobileNet model (trained on COCO dataset) to detect bottles in our images.
-<br>
 2. Training a model on our own images (many thanks to Dat Tran for his [Racoon Detector!](https://github.com/datitran/raccoon_dataset))
   - _train_test_img_split.py_
   - _xml_to_csv.py_
