@@ -15,6 +15,7 @@ __bottle-detection/__
   - _xml_to_csv.py_
   - _generate_tfrecord.py_
   - _export_inference_graph.py_
+  - _train.py_
   - _eval.py_
   - _images/_ : contains our train and test images, as well as our results
   - _models/_ : contains the models we create
@@ -29,6 +30,9 @@ __stereo/__
   - _stereo_match2.py_
   - _stereo_match3.py_
   - _stereo_testing.ipynb_
+  - _Stereo Vision.ipynb_
+  - _pose_estimate.py_
+  - _epipolar_geometry.py_
   
 ## Dependencies:
 - Tensorflow
